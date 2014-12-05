@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppEngineDemoShow</string>
+    <string name="hint_input">Input</string>
+    <string name="hint_output">Output</string>
+    <string name="btn_call">Call</string>
+
+</resources>
